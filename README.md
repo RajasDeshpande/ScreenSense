@@ -18,7 +18,6 @@ ScreenSense AI is a machine learning project that analyzes behavioral usage patt
 ## 📊 Key Results
 - **Model:** Random Forest Classifier
 - **Accuracy:** 92.60%
-- **Top Predictor:** [Insert your most important feature here, e.g., Daily Screen Time]
 --- 
 ## 🛠️ Technical Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
