@@ -1,4 +1,4 @@
-# ScreenSense AI 📱🧠
+# ScreenSense 📱🧠
 ### Predicting Smartphone Addiction with 92.6% Accuracy
 
 [![Google Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/RajasDeshpande/ScreenSense/blob/main/ScreenSense.ipynb)
