@@ -6,8 +6,10 @@
 ![Accuracy](https://img.shields.io/badge/Model_Accuracy-92.6%25-success?style=for-the-badge)
 
 --- 
+
 ## 📌 Project Overview
-ScreenSense AI is a machine learning project that analyzes behavioral usage patterns—such as daily screen time, notification frequency, and sleep hours—to predict if a user is at risk of smartphone addiction.
+ScreenSense AI is a machine learning project that analyzes behavioral usage patterns—such as daily screen time, notification frequency, and sleep hours to predict if a user is at risk of smartphone addiction.
+
 --- 
 ## 👥 Authors
 | Name | GitHub Profile |
